@@ -31,7 +31,7 @@ Perfil híbrido business-tech enfocado en soluciones de impacto para negocio.
 - Blender
 
 **Otros**
-- Git & GitHub  
+- GitHub  
 - APIs REST
 
 ## 🎯 En qué estoy trabajando
