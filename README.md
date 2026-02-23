@@ -12,7 +12,7 @@
 - 💻 Actualmente cursando DAW  
 - 🤖 Desarrollando agentes de IA aplicados a negocio  
 
-Me enfoco en conectar **estrategia, producto y ejecución técnica** para crear soluciones con impacto.
+Perfil híbrido business-tech enfocado en soluciones de impacto para negocio.
 
 ## 🧰 Stack & herramientas
 
