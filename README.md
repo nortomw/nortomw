@@ -1,7 +1,7 @@
 # 👋 Hola, soy Norma
 
 💡 Conecto visión de negocio y tecnología para desarrollar soluciones web, cuadros de mando y agentes de IA orientadas a resolver retos reales de negocio.
-🔭 Actualmente centrada en automatización de reporting financiero con un agente IA.
+🔭 Actualmente centrada en automatización de reporting financiero mediante un agente de IA.
 
 ## 🚀 Sobre mí
 
