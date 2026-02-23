@@ -1,6 +1,6 @@
 # 👋 Hola, soy Norma
 
-💡 Combino visión de negocio y tecnología para desarrollar soluciones web y agentes de IA orientadas a resolver retos reales de negocio.
+💡 Combino visión de negocio y tecnología para desarrollar soluciones web, cuadros de mando y agentes de IA orientadas a resolver retos reales de negocio.
 
 ## 🚀 Sobre mí
 
