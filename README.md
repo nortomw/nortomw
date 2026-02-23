@@ -7,8 +7,8 @@ Desarrollo soluciones web y agentes de IA orientados a resolver retos reales de 
 
 - 🎓 Diplomatura en Ciencias Empresariales  
 - 🎓 PDD IESE  
-- 🎓 MBA  
-- 🎓 Máster en Transformación Digital  
+- 🎓 Máster en Transformación Digital   
+- 🎓 MBA 
 - 💻 Actualmente cursando DAW  
 - 🤖 Desarrollando agentes de IA aplicados a negocio  
 
@@ -17,18 +17,22 @@ Me enfoco en conectar **estrategia, producto y ejecución técnica** para crear 
 ## 🧰 Stack & herramientas
 
 **Frontend**
+- Business Intelligence (PowerBI)
 - HTML5  
 - CSS3  
 - JavaScript
-- Business Intelligence (PowerBI)
 
 **IA & Automatización**
 - Agentes de IA  
 - OpenAI API  
 
+**Diseño**
+- Adobe Illustrator
+- Blender
+
 **Otros**
 - Git & GitHub  
-- APIs REST  
+- APIs REST
 
 ## 🎯 En qué estoy trabajando
 
