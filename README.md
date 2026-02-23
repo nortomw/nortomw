@@ -1,7 +1,6 @@
 # 👋 Hola, soy Norma
 
-💡 Perfil híbrido negocio-tech.  
-Desarrollo soluciones web y agentes de IA orientados a resolver retos reales de negocio.
+💡 Combino visión de negocio y tecnología para desarrollar soluciones web y agentes de IA orientadas a resolver retos reales de negocio.
 
 ## 🚀 Sobre mí
 
