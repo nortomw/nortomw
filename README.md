@@ -1,48 +1,71 @@
+# 👋 Hi, I'm Norma
+
+Personal portfolio including web projects, AI agents and business-focused automation solutions.
+
+💡 I connect business vision and technology to build web solutions, dashboards, and AI agents designed to solve real business challenges.
+
+🔭 Currently focused on automating financial reporting using an AI agent.
+
+---
+
 # 👋 Hola, soy Norma
 
-💡 Conecto visión de negocio y tecnología para desarrollar soluciones web, cuadros de mando y agentes de IA orientadas a resolver retos reales de negocio.
-🔭 Actualmente centrada en automatización de reporting financiero mediante un agente de IA.
+Portfolio personal con proyectos web, agentes de IA y soluciones de automatización orientadas a negocio.
 
-## 🚀 Sobre mí
+💡 Conecto visión de negocio y tecnología para desarrollar soluciones web, cuadros de mando y agentes de IA orientados a resolver retos reales de negocio.
 
-- 🎓 Diplomatura en Ciencias Empresariales  
-- 🎓 PDD IESE  
-- 🎓 Máster en Transformación Digital   
-- 🎓 MBA 
-- 💻 Actualmente cursando DAW  
-- 🤖 Desarrollando agentes de IA aplicados a negocio  
+🔭 Actualmente centrada en automatizar el reporting financiero mediante un agente de IA.
 
-Perfil híbrido business-tech enfocado en soluciones de impacto para negocio.
+## 🚀 About Me / Sobre mí
 
-## 🧰 Stack & herramientas
+* 🎓 Diploma in Business Administration
+* 🎓 PDD IESE Business School
+* 🎓 Master in Digital Transformation
+* 🎓 MBA
+* 💻 Currently studying Web Application Development (DAW)
+* 🤖 Building AI agents applied to business use cases
+
+Hybrid **business–tech profile** focused on building solutions with real business impact.
+
+---
+
+## 🧰 Stack & Tools
 
 **Frontend**
-- Business Intelligence (PowerBI)
-- HTML5  
-- CSS3  
-- JavaScript
 
-**IA & Automatización**
-- Agentes de IA  
-- OpenAI API  
+* Business Intelligence (Power BI)
+* HTML5
+* CSS3
+* JavaScript
 
-**Diseño**
-- Adobe Illustrator
-- Blender
+**AI & Automation**
 
-**Otros**
-- GitHub  
-- APIs REST
+* AI Agents
+* OpenAI API
 
-## 🎯 En qué estoy trabajando
+**Design**
 
-- Construcción de proyectos web end-to-end  
-- Desarrollo de agentes de IA para casos de uso de negocio  
-- Profundizando en arquitectura de aplicaciones  
+* Adobe Illustrator
+* Blender
 
-## 🤝 Conecta conmigo
+**Other Tools**
 
-- 💼 LinkedIn: www.linkedin.com/in/norma-tomas 
-- 🌐 Portfolio: https://nortomw.github.io/portfolio  
+* GitHub
+* REST APIs
 
-⭐️ *Siempre explorando cómo llevar la estrategia a soluciones técnicas reales de alto impacto.*
+---
+
+## 🎯 What I'm currently working on
+
+* Building **end-to-end web projects**
+* Developing **AI agents for business use cases**
+* Learning more about **application architecture**
+
+---
+
+## 🤝 Connect with me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/norma-tomas
+* 🌐 Portfolio: https://nortomw.github.io/portfolio
+
+⭐️ *Always exploring how to translate strategy into real technical solutions with meaningful impact.*
