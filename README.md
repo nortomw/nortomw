@@ -41,8 +41,6 @@ Portfolio personal con proyectos web, agentes de IA y soluciones de automatizaci
 * 💻 Currently studying Web Application Development (DAW)
 * 🤖 Building AI agents applied to business use cases
 
-Hybrid **business–tech profile** focused on building solutions with real business impact.
-
 ---
 
 ## 🧰 Stack & Tools
