@@ -46,28 +46,28 @@ Portfolio personal con proyectos web, agentes de IA y soluciones de automatizaci
 ## 🧰 Stack & Tools
 
 🤖 AI & Automation
-AI Agents
-OpenAI API
+- AI Agents
+- OpenAI API
 
 💻 Backend & Infrastructure
-Java
-Apache Tomcat
-Linux
-REST APIs
+- Java
+- Apache Tomcat
+- Linux
+- REST APIs
 
 🎨 Frontend & BI
-Power BI
-HTML5
-CSS3
-JavaScript
+- Power BI
+- HTML5
+- CSS3
+- JavaScript
 
 🧪 Dev Tools
-Git
-GitHub
+- Git
+- GitHub
 
 🎨 Design
-Adobe Illustrator
-Blender (basic)
+- Adobe Illustrator
+- Blender (basic)
 
 ---
 
