@@ -1,3 +1,13 @@
+# 🚧 Portfolio in Progress
+
+This repository presents a curated selection of projects and does not yet reflect the full scope of my work.
+
+Additional AI-driven and end-to-end automation solutions are currently being developed and will be included soon.
+
+---
+
+# AI & Business Automation Portfolio
+
 # 👋 Hi, I'm Norma
 
 Personal portfolio including web projects, AI agents and business-focused automation solutions.
