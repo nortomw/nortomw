@@ -1,8 +1,8 @@
 # 🚧 Portfolio in Progress
 
-This repository presents a curated selection of projects and does not yet reflect the full scope of my work.
+This portfolio is currently under development and presents a curated selection of projects.
 
-Additional AI-driven and end-to-end automation solutions are currently being developed and will be included soon.
+Additional AI-driven and end-to-end automation solutions will be added progressively.
 
 ---
 
