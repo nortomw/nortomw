@@ -18,8 +18,8 @@ Personal portfolio including web projects, AI agents and business-focused automa
 
 ## ⭐ Featured Projects
 
-- 🔹 **[AI Financial Reporting Agent](https://github.com/nortomw/AI-Financial-Reporting-Agent)**  
-  AI-powered financial reporting pipeline that compares financial KPIs and generates narrative reports combining text and visualizations.
+- 🔹 AI Financial Reporting System
+AI-powered financial reporting system that analyzes financial KPIs and generates executive-ready narrative reports combining text and visualizations.
 
 - 🔹 **[Email Data Processing Automation](https://github.com/nortomw/email-data-processing-automation)**  
   Python automation workflow that extracts structured information from email files and generates organized Excel reports.
@@ -36,8 +36,8 @@ Portfolio personal con proyectos web, agentes de IA y soluciones de automatizaci
 
 ## ⭐ Proyectos destacados
 
-- 🔹 **[AI Financial Reporting Agent](https://github.com/nortomw/AI-Financial-Reporting-Agent)**  
-  Pipeline de reporting financiero impulsado por IA que compara KPIs financieros y genera informes narrativos combinando texto y visualizaciones.
+- 🔹 Sistema de Reporting Financiero con IA
+Sistema de reporting financiero impulsado por IA que analiza KPIs y genera informes narrativos listos para dirección, combinando texto y visualizaciones.
 
 - 🔹 **[Email Data Processing Automation](https://github.com/nortomw/email-data-processing-automation)**  
   Flujo de automatización en Python que extrae información estructurada de correos electrónicos y genera informes organizados en Excel.
