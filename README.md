@@ -1,18 +1,20 @@
 # 🚧 Portfolio in Progress
 
-This portfolio is currently under development and presents a curated selection of projects.
+This portfolio is currently under development and showcases a curated selection of projects.
 
-Additional AI-driven and end-to-end automation solutions will be added progressively.
+Additional AI-driven and automation solutions will be added progressively.
 
 ---
 
 # AI & Business Automation Portfolio
 
-# 👋 Hi, I'm Norma
+## 👋 Hi, I'm Norma
 
-Personal portfolio including web projects, AI agents and business-focused automation solutions.
+I design AI and data-driven solutions that connect business and technology to create real impact.
 
-💡 I connect business and technology to build human-centered solutions with real impact, automating processes to free up time so people can focus on what truly matters.
+My work focuses on transforming data into actionable insights and automating processes to improve efficiency, consistency, and decision-making.
+
+💡 I build human-centered solutions that simplify complexity and free up time so people can focus on what truly matters.
 
 🔭 Designing AI and data-driven solutions to automate business processes and support decision-making.
 
@@ -55,39 +57,33 @@ Plataforma de nueva generación basada en inteligencia artificial y datos, actua
 
 ---
 
-## 🧰 Stack & Tools
+🧰 Stack & Capabilities
 
-🤖 AI & Automation
-- AI Agents
-- OpenAI API
+🤖 AI & Automation  
+AI Agents · OpenAI API · Workflow Automation  
 
-💻 Backend & Infrastructure
-- Java
-- Apache Tomcat
-- Linux
-- REST APIs
+📊 Data & Business Intelligence  
+Power BI · KPI Analysis · Data Modeling  
 
-🎨 Frontend & BI
-- Power BI
-- HTML5
-- CSS3
-- JavaScript
+💻 Backend & Infrastructure  
+Java · REST APIs · Apache Tomcat · Linux  
 
-🧪 Dev Tools
-- Git
-- GitHub
+🎨 Frontend  
+HTML5 · CSS3 · JavaScript  
 
-🎨 Design
-- Adobe Illustrator
-- Blender (basic)
+🧪 Development  
+Git · GitHub  
+
+🎨 Design  
+Adobe Illustrator · Blender (basic)
 
 ---
 
 ## 🎯 What I'm currently working on
 
-* Building **end-to-end web projects**
-* Developing **AI agents for business use cases**
-* Learning more about **application architecture**
+* Designing **AI and data-driven solutions** to automate business processes and support decision-making  
+* Developing **AI-powered platforms** for real-world business applications  
+* Defining **scalable architectures** that integrate data, automation, and AI  
 
 ---
 
