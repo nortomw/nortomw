@@ -14,15 +14,16 @@ Personal portfolio including web projects, AI agents and business-focused automa
 
 💡 I connect business and technology to build human-centered solutions with real impact, automating processes to free up time so people can focus on what truly matters.
 
-🔭 Currently focused on automating financial reporting using an AI agent.
+🔭 Designing AI and data-driven solutions to automate business processes and support decision-making.
 
 ## ⭐ Featured Projects
 
-- 🔹 AI Financial Reporting System
-AI-powered financial reporting system that analyzes financial KPIs and generates executive-ready narrative reports combining text and visualizations.
+- 🔹 **AI Financial Reporting System**  
+AI-powered financial reporting system that analyzes KPIs and generates executive-ready narrative reports combining text and visualizations.
 
-- 🔹 **[Email Data Processing Automation](https://github.com/nortomw/email-data-processing-automation)**  
-  Python automation workflow that extracts structured information from email files and generates organized Excel reports.
+- 🔹 **Cercalis – AI & Data Platform (in progress)**
+Next-generation AI and data platform currently in development, focused on transforming business operations through automation and intelligent insights.
+🌐 https://cercalis.com
 
 ---
 
@@ -32,15 +33,16 @@ Portfolio personal con proyectos web, agentes de IA y soluciones de automatizaci
 
 💡 Conecto negocio y tecnología para crear soluciones centradas en las personas y con impacto real, automatizando procesos para liberar tiempo y que las personas puedan centrarse en lo que realmente importa.
 
-🔭 Actualmente centrada en automatizar el reporting financiero mediante un agente de IA.
+🔭 Diseño de soluciones basadas en IA para automatización de procesos, análisis financiero y soporte a la toma de decisiones.
 
 ## ⭐ Proyectos destacados
 
-- 🔹 Sistema de Reporting Financiero con IA
-Sistema de reporting financiero impulsado por IA que analiza KPIs y genera informes narrativos listos para dirección, combinando texto y visualizaciones.
+- 🔹 **Sistema de Reporting Financiero con IA**  
+  Sistema de reporting financiero impulsado por IA que analiza KPIs y genera informes narrativos listos para dirección, combinando texto y visualizaciones.
 
-- 🔹 **[Email Data Processing Automation](https://github.com/nortomw/email-data-processing-automation)**  
-  Flujo de automatización en Python que extrae información estructurada de correos electrónicos y genera informes organizados en Excel.
+🔹 **Cercalis – Plataforma de Datos e IA (en desarrollo)**
+Plataforma de nueva generación basada en inteligencia artificial y datos, actualmente en construcción, orientada a transformar las operaciones empresariales mediante automatización e insights inteligentes.
+🌐 https://cercalis.com
 
 ## 🚀 About Me / Sobre mí
 
