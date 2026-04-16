@@ -40,7 +40,7 @@ Portfolio personal con proyectos web, agentes de IA y soluciones de automatizaci
 - 🔹 **Sistema de Reporting Financiero con IA**  
   Sistema de reporting financiero impulsado por IA que analiza KPIs y genera informes narrativos listos para dirección, combinando texto y visualizaciones.
 
-🔹 **Cercalis – Plataforma de Datos e IA (en desarrollo)**
+- 🔹 **Cercalis – Plataforma de Datos e IA (en desarrollo)**
 Plataforma de nueva generación basada en inteligencia artificial y datos, actualmente en construcción, orientada a transformar las operaciones empresariales mediante automatización e insights inteligentes.
 🌐 https://cercalis.com
 
