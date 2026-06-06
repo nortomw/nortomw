@@ -30,9 +30,7 @@ Next-generation AI and data platform currently in development, focused on transf
 🌐 https://cercalis.com
 
 - 🔹 **AI-Optimized Website Framework**
-
 Framework and methodology for designing websites that can be efficiently indexed, understood, and leveraged by AI-powered search engines and autonomous agents.
-
 Focused on semantic architecture, structured data, and AI discoverability to help businesses become visible in the emerging AI-first ecosystem.
 🌐 https://nortomw.com
 
@@ -58,7 +56,6 @@ Plataforma de nueva generación basada en inteligencia artificial y datos, actua
 🌐 https://cercalis.com
 
 - 🔹 **Framework de Sitios Web Optimizados para IA**
-
 Metodología y framework para diseñar sitios web que puedan ser fácilmente indexados, comprendidos y utilizados por motores de búsqueda basados en inteligencia artificial y agentes autónomos.
 
 Basado en arquitectura semántica, datos estructurados, optimización para buscadores impulsados por IA y estrategias de contenido legibles por máquinas, ayudando a las organizaciones a ser encontradas y comprendidas en el nuevo ecosistema digital impulsado por la inteligencia artificial.
