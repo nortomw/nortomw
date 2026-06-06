@@ -18,6 +18,8 @@ My work focuses on transforming data into actionable insights and automating pro
 
 🔭 Designing AI and data-driven solutions to automate business processes and support decision-making.
 
+🔎 I design and develop websites optimized not only for people, but also for AI systems.
+
 ## ⭐ Featured Projects
 
 - 🔹 **AI Financial Reporting System**  
@@ -26,6 +28,13 @@ AI-powered financial reporting system that analyzes KPIs and generates executive
 - 🔹 **Cercalis – AI & Data Platform (in progress)**
 Next-generation AI and data platform currently in development, focused on transforming business operations through automation and intelligent insights.
 🌐 https://cercalis.com
+
+- 🔹 **AI-Optimized Website Framework**
+
+Framework and methodology for designing websites that can be efficiently indexed, understood, and leveraged by AI-powered search engines and autonomous agents.
+
+Focused on semantic architecture, structured data, and AI discoverability to help businesses become visible in the emerging AI-first ecosystem.
+🌐 https://nortomw.com
 
 ---
 
@@ -37,6 +46,8 @@ Portfolio personal con proyectos web, agentes de IA y soluciones de automatizaci
 
 🔭 Diseño de soluciones basadas en IA para automatización de procesos, análisis financiero y soporte a la toma de decisiones.
 
+🔎 Diseño y desarrollo sitios web optimizados no solo para las personas, sino también para los sistemas de inteligencia artificial.
+
 ## ⭐ Proyectos destacados
 
 - 🔹 **Sistema de Reporting Financiero con IA**  
@@ -46,14 +57,24 @@ Portfolio personal con proyectos web, agentes de IA y soluciones de automatizaci
 Plataforma de nueva generación basada en inteligencia artificial y datos, actualmente en construcción, orientada a transformar las operaciones empresariales mediante automatización e insights inteligentes.
 🌐 https://cercalis.com
 
+- 🔹 **Framework de Sitios Web Optimizados para IA**
+
+Metodología y framework para diseñar sitios web que puedan ser fácilmente indexados, comprendidos y utilizados por motores de búsqueda basados en inteligencia artificial y agentes autónomos.
+
+Basado en arquitectura semántica, datos estructurados, optimización para buscadores impulsados por IA y estrategias de contenido legibles por máquinas, ayudando a las organizaciones a ser encontradas y comprendidas en el nuevo ecosistema digital impulsado por la inteligencia artificial.
+
+🎯 Objetivo: que las empresas sean visibles, comprensibles y utilizables tanto por personas como por agentes de IA.
+🌐 https://nortomw.com
+
 ## 🚀 About Me / Sobre mí
 
 * 🎓 Diploma in Business Administration
 * 🎓 PDD IESE Business School
 * 🎓 Master in Digital Transformation
 * 🎓 MBA
-* 💻 Currently studying Web Application Development (DAW)
+* 💻 Currently expanding my software development skills through Web Application Development (DAW)
 * 🤖 Building AI agents applied to business use cases
+* 🔎 Designing and developing websites optimized for AI discovery, search, and autonomous agents
 
 ---
 
@@ -63,19 +84,19 @@ Plataforma de nueva generación basada en inteligencia artificial y datos, actua
 AI Agents · OpenAI API · Workflow Automation  
 
 📊 Data & Business Intelligence  
-Power BI · KPI Analysis · Data Modeling  
+Power BI · KPI Analysis · Data Modeling  · Financial Reporting
 
 💻 Backend & Infrastructure  
-Java · REST APIs · Apache Tomcat · Linux  
+Java · NestJS · REST APIs · Linux  
 
-🎨 Frontend  
-HTML5 · CSS3 · JavaScript  
+🌐 Web Development & AI Discoverability
+Next.js · TypeScript · HTML5 · CSS3 · JavaScript · Technical SEO · Structured Data (Schema.org) · AI Search Optimization
 
 🧪 Development  
 Git · GitHub  
 
 🎨 Design  
-Adobe Illustrator · Blender (basic)
+Adobe Illustrator · Blender
 
 ---
 
@@ -89,7 +110,7 @@ Adobe Illustrator · Blender (basic)
 
 ## 🤝 Connect with me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/norma-tomas
+* 💼 LinkedIn: www.linkedin.com/in/normatomasdatadrivenexecutive
 * 🌐 Portfolio: https://nortomw.github.io/portfolio
 
 ⭐️ *Always exploring how to translate strategy into real technical solutions with meaningful impact.*
