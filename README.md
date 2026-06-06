@@ -1,4 +1,4 @@
-# 🚧 Portfolio in Progress
+# Portfolio in Progress 🚀
 
 This portfolio is currently under development and showcases a curated selection of projects.
 
